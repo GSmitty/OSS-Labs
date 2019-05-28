@@ -1,1 +1,1 @@
-![Puzzle Solved](C:\Users\gsmit\Pictures\maze.png)
+![Puzzle Solved](\Users\gsmit\Pictures\maze.png)
