@@ -4,3 +4,20 @@ For me, I found this chapter to be very frightening. Copyright laws and the gian
 ## How to Ask Questions Suggestions:
 1. While I understand that there is really no responsibilty of programmers to answer questions on sites such as stack overflow, I think that the attitude towards questions that aren't written the best way possible can sometimes be a little rude and discouraging, especially to people that are new to programming.
 2. Add in personal experience to reassure that some problems happen to everyone, such as a time this program acted strange, or a statement like "happens to a lot of people".
+
+
+## Man Tree Image
+![Man Tree](images/Screenshot from 2019-05-24 11-22-41.png)
+
+## Regex Practice Image
+![Regex Shot](images/Screenshot from 2019-05-29 13-44-58.png)
+
+## Cross Solutions
+![Cross1](images/cross1.png)
+![Cross2](images/cross2.png)
+![Cross3](images/cross3.png)
+![Cross4](images/cross4.png)
+![Cross4](images/cross5.png)
+
+## Maze Solution
+![Maze](images/maze.png)
