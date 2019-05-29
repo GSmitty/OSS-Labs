@@ -7,17 +7,17 @@ For me, I found this chapter to be very frightening. Copyright laws and the gian
 
 
 ## Man Tree Image
-![ManTree](images/Screenshot from 2019-05-24 11-22-41.png)
+![ManTree](/labs/lab-01/images/Screenshot from 2019-05-24 11-22-41.png)
 
 ## Regex Practice Image
-![RegexShot](images/Screenshot from 2019-05-29 13-44-58.png)
+![RegexShot](/labs/lab-01/images/Screenshot from 2019-05-29 13-44-58.png)
 
 ## Cross Solutions
-![Cross1](/images/cross1.png)
-![Cross2](/images/cross2.png)
-![Cross3](/images/cross3.png)
-![Cross4](/images/cross4.png)
-![Cross4](/images/cross5.png)
+![Cross1](/labs/lab-01/images/cross1.png)
+![Cross2](/labs/lab-01/images/cross2.png)
+![Cross3](/labs/lab-01/images/cross3.png)
+![Cross4](/labs/lab-01/images/cross4.png)
+![Cross4](/labs/lab-01/images/cross5.png)
 
 ## Maze Solution
-![Maze](/images/maze.png)
+![Maze](/labs/lab-01/images/maze.png)
