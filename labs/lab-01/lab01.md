@@ -23,3 +23,4 @@ For me, I found this chapter to be very frightening. Copyright laws and the gian
 ![Maze](https://github.com/GSmitty/OSS-Labs/blob/master/labs/lab-01/images/maze.PNG)
 
 ## Open Source Project:
+I find Audacity to be a very interesting project, and my interest in music and my experience in audio recording draws some interest towards it.
