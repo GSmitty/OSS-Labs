@@ -7,17 +7,19 @@ For me, I found this chapter to be very frightening. Copyright laws and the gian
 
 
 ## Man Tree Image
-![ManTree](/labs/lab-01/images/Screenshot from 2019-05-24 11-22-41.png)
+![ManTree](https://github.com/GSmitty/OSS-Labs/blob/master/labs/lab-01/images/Screenshot%20from%202019-05-24%2011-22-41.png)
 
 ## Regex Practice Image
-![RegexShot](/labs/lab-01/images/Screenshot from 2019-05-29 13-44-58.png)
+![RegexShot](https://github.com/GSmitty/OSS-Labs/blob/master/labs/lab-01/images/Screenshot%20from%202019-05-29%2013-44-58.png)
 
 ## Cross Solutions
-![Cross1](/labs/lab-01/images/cross1.png)
-![Cross2](/labs/lab-01/images/cross2.png)
-![Cross3](/labs/lab-01/images/cross3.png)
-![Cross4](/labs/lab-01/images/cross4.png)
-![Cross4](/labs/lab-01/images/cross5.png)
+![Cross1](https://github.com/GSmitty/OSS-Labs/blob/master/labs/lab-01/images/cross1.PNG)
+![Cross2](https://github.com/GSmitty/OSS-Labs/blob/master/labs/lab-01/images/cross2.PNG)
+![Cross3](https://github.com/GSmitty/OSS-Labs/blob/master/labs/lab-01/images/cross3.PNG)
+![Cross4](https://github.com/GSmitty/OSS-Labs/blob/master/labs/lab-01/images/cross4.PNG)
+![Cross4](https://github.com/GSmitty/OSS-Labs/blob/master/labs/lab-01/images/cross5.PNG)
 
 ## Maze Solution
-![Maze](/labs/lab-01/images/maze.png)
+![Maze](https://github.com/GSmitty/OSS-Labs/blob/master/labs/lab-01/images/maze.PNG)
+
+## Open Source Project:
