@@ -91,4 +91,4 @@ master
 
 
 ## Comments:
-
+When looking at the gitstats in comparison to the hand-made stats, it is extremely different, but in a very inconsistent way. It seems like gitstats does not consistently have more or less authors or lines of code per each project. Therefore, it's hard to decide which is more accurate, nevertheless leaning towards gitstats just in nature of it being a created program for this explicit purpose. Many of the gource images are taken preemptively, because the simulation was still just taking too long to run. This is especially the case for RuneLite, with thousands upon thousand of lines of code and commits. 
