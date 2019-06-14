@@ -71,20 +71,24 @@ master
 ```
 
 ## Gitstats Images
-#RPICampusTrends
+# RPICampusTrends
 ![CampusStats](https://github.com/GSmitty/OSS-Labs/blob/master/labs/lab-03/images/gitstats.png)
-#RPICampusMap
+# RPICampusMap
 ![CampusMapStats](https://github.com/GSmitty/OSS-Labs/blob/master/labs/lab-03/images/rpicampusstats.png)
-#RuneLite
+# RuneLite
 ![RuneLiteStats](https://github.com/GSmitty/OSS-Labs/blob/master/labs/lab-03/images/runelitestats.png)
-#RushMeiOS
+# RushMeiOS
 ![RushMeiStats](https://github.com/GSmitty/OSS-Labs/blob/master/labs/lab-03/images/rushmeistats.png)
 ## Gource Images
-#RPICampusTrends
+# RPICampusTrends
 ![CampusGource](https://github.com/GSmitty/OSS-Labs/blob/master/labs/lab-03/images/gource.png)
-#RPICampusMap
+# RPICampusMap
 ![CampusMapGource](https://github.com/GSmitty/OSS-Labs/blob/master/labs/lab-03/images/rpimapgource.png)
-#RuneLite
+# RuneLite
 ![RuneLiteGource](https://github.com/GSmitty/OSS-Labs/blob/master/labs/lab-03/images/runelitegource.png)
-#RushMeiOS
+# RushMeiOS
 ![RushMeiGource](https://github.com/GSmitty/OSS-Labs/blob/master/labs/lab-03/images/rushmeigource.png)
+
+
+## Comments:
+
