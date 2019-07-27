@@ -93,7 +93,7 @@ if __name__ == '__main__':
             print("None")
 ```
 ![image1](https://github.com/GSmitty/OSS-Labs/blob/master/labs/lab-07/images/image3.png)
-![image2](https://github.com/GSmitty/OSS-Labs/blob/master/labs/lab-07/images/image4.png)
+![image2](https://github.com/GSmitty/OSS-Labs/blob/master/labs/lab-07/images/image5.png)
 ### Part2:
 ```python
 """
@@ -293,4 +293,4 @@ if __name__ == '__main__':
         except nx.NetworkXNoPath:
             print("None")
 ```
-![image5](https://github.com/GSmitty/OSS-Labs/blob/master/labs/lab-07/images/image5.png)
+![image5](https://github.com/GSmitty/OSS-Labs/blob/master/labs/lab-07/images/image4.png)
